@@ -1,4 +1,4 @@
-# Hi folks! I'm Damla 👋
+# Hey folks! I'm Damla 👋
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=damlacim.visitor-badge)
  
