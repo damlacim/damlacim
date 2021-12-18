@@ -4,7 +4,7 @@
  
  
 - 🔭 I'm a Computer Engineering student and I'm working on Android programming. 
-- 🌱 I’m currently learning Flutter. I'm always trying new challenges. 
+- 🌱 I’m currently learning Flutter and Swift. I'm always trying new challenges. 
 
 I love to write something with the Kotlin programming language and especially solving algorithms questions.
 In addition to these, I write blog posts both on my own Blog and on the SistersLab Blog. 
