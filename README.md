@@ -3,7 +3,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=damlacim.visitor-badge)
  
  
-- 🔭 I'm a Computer Engineering student and I'm working on Android programming. 
+- 🔭 I'm a Computer Engineering student and I'm working on iOS development. 
 - 🌱 I’m currently learning Flutter and Swift. I'm always trying new challenges. 
 
 I love to write something with the Kotlin programming language and especially solving algorithms questions.
