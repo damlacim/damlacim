@@ -30,6 +30,6 @@ And [here](https://damlacim.medium.com) are my Medium blog posts.
 
 - [Linkedin](https://www.linkedin.com/in/damla-çim-39b6a2178/)
 - [Twitter](https://twitter.com/elowendark)
-- [Instagram](https://www.instagram.com/cim.damla0/)
+
 
 
