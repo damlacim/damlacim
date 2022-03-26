@@ -35,5 +35,7 @@ And [here](https://damlacim.medium.com) are my Medium blog posts.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=damlacim&count=1)
 
+[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status.py" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/damlacim)
+
 
 
