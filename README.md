@@ -31,5 +31,9 @@ And [here](https://damlacim.medium.com) are my Medium blog posts.
 - [Linkedin](https://www.linkedin.com/in/damla-çim-39b6a2178/)
 - [Twitter](https://twitter.com/elowendark)
 
+## Spotify
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=damlacim&count=1)
+
 
 
