@@ -4,7 +4,7 @@
  
  
 - 🔭 I'm a Computer Engineering student and I'm working on iOS development. 
-- 🌱 I’m currently learning MVVM.
+- 🌱 I’m currently learning VIPER.
 - 🔮 I'm also a total Kotlin enthusiast. But I only like Kotlin, not Android lol.  
 
 I love to write something with the Kotlin programming language and especially solving algorithms questions.
