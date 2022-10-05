@@ -3,7 +3,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=damlacim.visitor-badge)
  
  
-- 🔭 I'm a senior year student in Computer Engineering and I'm working on iOS development. 
+- 🔭 I'm iOS developer and I'm a senior year student in Computer Engineering. 
 - 🌱 I’m currently learning SwiftUI.
 - 🔮 I'm also a total Kotlin enthusiast. But I only like Kotlin, not Android lol.  
 
