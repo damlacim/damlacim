@@ -3,8 +3,8 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=damlacim.visitor-badge)
  
  
-- 🔭 I'm a Computer Engineering student and I'm working on iOS development. 
-- 🌱 I’m currently learning VIPER.
+- 🔭 I'm a senior year student in Computer Engineering and I'm working on iOS development. 
+- 🌱 I’m currently learning SwiftUI.
 - 🔮 I'm also a total Kotlin enthusiast. But I only like Kotlin, not Android lol.  
 
 I love to write something with the Kotlin programming language and especially solving algorithms questions.
