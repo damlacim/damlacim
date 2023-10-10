@@ -3,7 +3,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=damlacim.visitor-badge)
  
  
-- 🔭 I'm iOS developer and I'm a Computer Engineer. 
+- 🔭 I'm iOS developer and a Computer Engineer. 
 - 🌱 I’m currently learning SwiftUI.
 - 🔮 I'm also a total Kotlin enthusiast. But I only like Kotlin, not Android lol.  
 
